@@ -1,13 +1,11 @@
 package model.dao.impl;
 
-import com.mysql.cj.x.protobuf.MysqlxCrud;
 import db.DB;
 import db.DbException;
 import model.dao.SellerDao;
 import model.entities.Department;
 import model.entities.Seller;
 
-import java.awt.image.Kernel;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashMap;
